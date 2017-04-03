@@ -11,3 +11,6 @@ The software development platform Kinetis Design Studio is used to build, run, a
 MQX applications. 
 
 More details are in the report.
+
+## Usage
+Run the code on MQX
